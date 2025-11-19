@@ -31,4 +31,4 @@ This project focuses on analyzing and predicting hourly bike rentals and their d
 3. Works with Python 3 + PyCaret 3.3.2  
 
 ### License  
-MIT License - free to use, share, and fork!
+MIT License
